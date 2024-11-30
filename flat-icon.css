@@ -1,0 +1,11 @@
+.flaticon-instagram {  
+  
+    display: inline-block;
+    width: 24px; /* Set size */
+    height: 24px;
+    background-color: currentColor; /* Inherits color */
+    mask: url('assets\images\svg\flaticon-instagram.svg') no-repeat center;
+    -webkit-mask: url('assets\images\svg\flaticon-instagram.svg') no-repeat center;
+    mask-size: contain;
+    -webkit-mask-size: contain;
+  }
